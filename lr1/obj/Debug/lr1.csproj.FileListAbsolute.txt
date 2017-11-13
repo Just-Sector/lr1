@@ -1,0 +1,6 @@
+C:\Users\DIMON\Desktop\lr1\lr1\bin\Debug\lr1.exe.config
+C:\Users\DIMON\Desktop\lr1\lr1\bin\Debug\lr1.exe
+C:\Users\DIMON\Desktop\lr1\lr1\bin\Debug\lr1.pdb
+C:\Users\DIMON\Desktop\lr1\lr1\obj\Debug\lr1.csprojResolveAssemblyReference.cache
+C:\Users\DIMON\Desktop\lr1\lr1\obj\Debug\lr1.exe
+C:\Users\DIMON\Desktop\lr1\lr1\obj\Debug\lr1.pdb
